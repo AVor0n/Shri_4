@@ -1,0 +1,23 @@
+{
+  "name": "shri_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AVor0n/Shri_4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AVor0n/Shri_4/issues"
+  },
+  "homepage": "https://github.com/AVor0n/Shri_4#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
